@@ -1,0 +1,8 @@
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\obj\Debug\Hotel Cesumar.csproj.AssemblyReference.cache
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\obj\Debug\Hotel Cesumar.csproj.SuggestedBindingRedirects.cache
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\obj\Debug\Hotel Cesumar.csproj.CoreCompileInputs.cache
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\bin\Debug\Hotel Cesumar.exe.config
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\bin\Debug\Hotel Cesumar.exe
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\bin\Debug\Hotel Cesumar.pdb
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\obj\Debug\Hotel Cesumar.exe
+D:\Teste de logica vs\Hotel Cesumar\Hotel Cesumar\obj\Debug\Hotel Cesumar.pdb

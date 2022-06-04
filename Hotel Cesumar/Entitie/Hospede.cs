@@ -6,16 +6,17 @@ using System.Threading.Tasks;
 
 namespace Hotel_Cesumar.Entitie
 {
-    class Hospede
+    public class Hospede
     {
-        public int Codigo { get; private set; }
-        public int Nome { get; private set; }
-        public int Endereco { get; private set; }
-        public int Idade { get; private set; }
+        public int Codigo { get; set; }
+        public int Nome { get; set; }
+        public int Endereco { get; set; }
+        public int Idade { get; set; }
 
         public Hospede()
         {
 
         }
+       
     }
 }

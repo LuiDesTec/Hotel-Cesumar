@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Hotel_Cesumar.Entitie
 {
-    class Suite
+    public class Suite
     {
-        public int Numero { get; private set; }
-        public string Tipo { get; private set; }
-        public int Capacidade { get; private set; }
-        public int ValorDiaria { get; private set; }
+        public int Numero { get;  set; }
+        public string Tipo { get;  set; }
+        public int Capacidade { get;  set; }
+        public double ValorDiaria { get;  set; }
 
         public Suite()
         {
 
         }
+
+        
     }
 }
