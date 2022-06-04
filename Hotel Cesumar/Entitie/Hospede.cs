@@ -8,15 +8,18 @@ namespace Hotel_Cesumar.Entitie
 {
     public class Hospede
     {
-        public int Codigo { get; set; }
-        public int Nome { get; set; }
-        public int Endereco { get; set; }
-        public int Idade { get; set; }
+        public int Codigo { get; private set; }
+        public int Nome { get; private set; }
+        public int Endereco { get; private set; }
+        public int Idade { get; private set; }
 
         public Hospede()
         {
 
         }
-       
+       public void GetIdade(int idade)
+        {
+            this.Idade = idade;
+        }
     }
 }

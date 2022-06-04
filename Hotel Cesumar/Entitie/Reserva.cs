@@ -41,7 +41,7 @@ namespace Hotel_Cesumar.Entitie
 
         public double CalcularDiaria()
         {
-            double q = Suite.ValorDiaria * QuantidadeDias;
+            double q = Suite.Valor * QuantidadeDias;
             if (QuantidadeDias > 7)
             {
                 double q1 = q * 0.1;

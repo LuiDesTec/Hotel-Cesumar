@@ -22,36 +22,36 @@ quantidade de diárias solicitadas.
 
             //         SUITE  Com os dados necessários         //
             Suite suite_a = new Suite();
-            suite_a.ValorDiaria = 70.00;
-            suite_a.Capacidade = 2;
+            suite_a.SetValorDiaria(70.00);
+            suite_a.SetCapacidade(2);
 
             Suite suite_b = new Suite();
-            suite_b.ValorDiaria = 80.00;
-            suite_b.Capacidade = 2;
+            suite_b.SetValorDiaria(80.00);
+            suite_b.SetCapacidade(2);
 
             Suite suite_c = new Suite();
-            suite_c.ValorDiaria = 60.00;
-            suite_c.Capacidade = 3;
+            suite_b.SetValorDiaria(80.00);
+            suite_b.SetCapacidade(2);
 
             Suite suite_d = new Suite();
-            suite_d.ValorDiaria = 60.00;
-            suite_d.Capacidade = 3;
+            suite_d.SetValorDiaria(60.00);
+            suite_d.SetCapacidade(3);
 
             //         HOSPEDES          //
             Hospede Karolyn = new Hospede();
-            Karolyn.Idade = 11;
+            Karolyn.GetIdade(11);
 
             Hospede Kevinyn = new Hospede();
-            Kevinyn.Idade = 10;
+            Kevinyn.GetIdade(10);
 
             Hospede Tatiane = new Hospede();
-            Tatiane.Idade = 38;
+            Tatiane.GetIdade(39);
 
             Hospede Luiz = new Hospede();
-            Luiz.Idade = 45;
+            Luiz.GetIdade(45);
 
             Hospede Taila = new Hospede();
-            Taila.Idade = 2;
+            Taila.GetIdade(2);
 
             //Dois hospedes adultos, suíte_a, com capacidade para 2 pessoas.
             // Diária 70 Reais p/ 2 dias(R$140).
